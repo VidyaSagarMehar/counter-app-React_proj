@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a87c5b99.css",
+    "main.js": "/static/js/main.1cc1d0cb.js",
+    "static/js/787.af57b8ca.chunk.js": "/static/js/787.af57b8ca.chunk.js",
+    "static/media/pexels-maverick-f-10820363.jpg": "/static/media/pexels-maverick-f-10820363.306459b96818048757bd.jpg",
+    "index.html": "/index.html",
+    "main.a87c5b99.css.map": "/static/css/main.a87c5b99.css.map",
+    "main.1cc1d0cb.js.map": "/static/js/main.1cc1d0cb.js.map",
+    "787.af57b8ca.chunk.js.map": "/static/js/787.af57b8ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a87c5b99.css",
+    "static/js/main.1cc1d0cb.js"
+  ]
+}
