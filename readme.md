@@ -25,7 +25,7 @@
 REACT, HTML, CSS
 
 ## Demo | Netlify
-[LIVE LINK](https://countereactapp.netlify.app/)
+[LIVE LINK](https://counterreacttoast.netlify.app/)
 
 
 ## Screenshots
