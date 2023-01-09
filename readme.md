@@ -6,6 +6,9 @@
 ![](logo192.png)
 
 ## Project Title - Counter App using React
+A couter app which can increase/decrease the couter when you click on the button 
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
@@ -29,9 +32,7 @@ REACT, HTML, CSS
 
 
 ## Screenshots
-![]()
-
-
+![Screenshot_20230109_042219](https://user-images.githubusercontent.com/92782806/211293408-ee951dc2-fa89-4db8-9ba8-ba99eeee36fc.png)
 
 ## Feedback
 
